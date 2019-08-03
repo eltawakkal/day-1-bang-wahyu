@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Media Pembelajaran</string>
+
+    <string-array name="list_kota">
+        <item>Depok</item>
+        <item>Jakarta</item>
+        <item>Bogor</item>
+    </string-array>
+</resources>
